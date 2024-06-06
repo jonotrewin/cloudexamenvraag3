@@ -1,5 +1,3 @@
-name: Checkout code
-  uses: actions/checkout@master
 name: Create diagram
 on:
   workflow_dispatch: {}
